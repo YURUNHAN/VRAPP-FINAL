@@ -1,0 +1,64 @@
+# Project Name
+CougDirect (WSU ROAR- VR APPLICATION)
+## Project summary
+WSU ROAR is a program at WSU for students with mental disabilities. Our project is run through this program, and we intend to design a mobile application for
+these students to help them navigate the WSU campus. We plan to help them by letting them indicate which WSU buildings, and other locations they would like to go to, 
+and then it will help them with directions, as well as first person videos and 360 tours of each building. The user will be able to make a path of multiple locations on campus
+that will help them find their way. 
+### One-sentence description of the project
+Mobile Application with VR capabilities to help students navigate their way around the WSU campus. 
+
+### Additional information about the project
+The user will include a video series of walking tours of campus, as well as VR capable tours of indoor locations on campus.
+TODO: Write a compelling/creative/informative project description / summary
+
+## Installation
+The application will be available for download on both iOS and Android. 
+### Prerequisites
+The user just must have a phone capable of running iOS or Android operating system. For the VR capabilities, the user must use an Oculus headset. (WSU ROAR
+HAS THESE HEADSETS AT THEIR LOCATION FOR STUDENTS TO USE)
+TODO: List what a user needs to have installed before running the installation instructions below (e.g., git, which versions of Ruby/Rails)
+
+### Add-ons
+The add ons so far are just the VR capable videos, these can help the user see a full perspective on the inside of each wsu location. 
+TODO: List which add-ons are included in the project, and the purpose each add-on serves in your app.
+
+### Installation Steps
+There will be a download link at first, but plan to put on the Apple app store, and Google Play store for free to allow students to download. 
+TODO: Describe the installation process (making sure you mention `bundle install`).
+Instructions need to be such that a user can just copy/paste the commands to get things set up and running. 
+
+
+## Functionality
+The functionality will be made as simple as possible for the user. The user should be able to just click the buttons with clear messages and be able to navigate
+the app as easily as possible. 
+TODO: Write usage instructions. Structuring it as a walkthrough can help structure this section,
+and showcase your features.
+
+
+## Known Problems
+N/A yet
+TODO: Describe any known issues, bugs, odd behaviors or code smells. 
+Provide steps to reproduce the problem and/or name a file or a function where the problem lives.
+
+
+## Contributing
+
+TODO: Leave the steps below if you want others to contribute to your project.
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## Additional Documentation
+
+TODO: Provide links to additional documentation that may exist in the repo, e.g.,
+  * Sprint reports
+  * User links
+
+## License
+
+If you haven't already, add a file called `LICENSE.txt` with the text of the appropriate license.
+We recommend using the MIT license: <https://choosealicense.com/licenses/mit/>
